@@ -1,15 +1,20 @@
 ---
 guest: Jacob Warwick
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: The tactical playbook for getting 20-40% more comp (without sounding greedy) | Jacob Warwick
+youtube_url: https://www.youtube.com/watch?v=pEis2CBomVA
+video_id: pEis2CBomVA
+publish_date: 2026-03-19
+description: Jacob Warwick has negotiated $1B+ in executive compensation. He shares his tactical playbook for getting 20-40% more comp without sounding greedy.
 duration_seconds: 6872
 duration: 1:54:32
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- compensation negotiation
+- salary
+- executive career
+- job offer
+- equity
 ---
 
 # Jacob Warwick | Lenny's Podcast

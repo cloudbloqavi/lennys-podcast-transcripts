@@ -1,15 +1,20 @@
 ---
 guest: Claire Vo
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: From skeptic to true believer: How OpenClaw changed my life | Claire Vo
+youtube_url: https://www.youtube.com/watch?v=DIa0MYJzM5I
+video_id: DIa0MYJzM5I
+publish_date: 2026-03-29
+description: Claire Vo went from OpenClaw skeptic to power user running 9 specialized agents. A masterclass in using AI agents in real life.
 duration_seconds: 6370
 duration: 1:46:10
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- openclaw
+- ai agents
+- product management
+- automation
+- skeptic to believer
 ---
 
 # Claire Vo | Lenny's Podcast

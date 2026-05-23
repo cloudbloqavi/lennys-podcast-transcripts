@@ -1,15 +1,20 @@
 ---
 guest: Michelle Rial
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: A behind-the-scenes interview with Lenny Rachitsky on building his newsletter and podcast | Michelle Rial
+youtube_url: https://www.youtube.com/watch?v=HEqrvF7ztBE
+video_id: HEqrvF7ztBE
+publish_date: 2026-03-12
+description: Michelle Rial interviews her husband Lenny Rachitsky in the most honest conversation he's ever had about building his 1M+ subscriber newsletter and top 10 tech podcast.
 duration_seconds: 4010
 duration: 1:06:50
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- newsletter
+- podcast building
+- creator economy
+- behind the scenes
+- Charts for Babies
 ---
 
 # Michelle Rial | Lenny's Podcast

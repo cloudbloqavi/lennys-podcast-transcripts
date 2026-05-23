@@ -1,15 +1,21 @@
 ---
 guest: Max Schoening
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: AI era skills: Why cultivating agency matters more than job titles | Max Schoening (Notion)
+youtube_url: https://www.youtube.com/watch?v=mCO-D3pkviM
+video_id: mCO-D3pkviM
+publish_date: 2026-05-02
+description: Max Schoening is head of product at Notion, where he's been especially effective at getting designers and PMs to ship code and think more like engineers.
 duration_seconds: 5219
 duration: 1:26:59
-view_count: 0
+view_count: 50711
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- product management
+- AI
+- agency
+- Notion
+- design
+- engineering
 ---
 
 # Max Schoening | Lenny's Podcast

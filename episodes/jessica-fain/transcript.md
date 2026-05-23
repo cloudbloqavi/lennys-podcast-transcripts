@@ -1,15 +1,20 @@
 ---
 guest: Jessica Fain
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: The art of influence: The single most important skill that AI can't replace | Jessica Fain (Webflow, ex-Slack)
+youtube_url: https://www.youtube.com/watch?v=RP4vJeIb7WU
+video_id: RP4vJeIb7WU
+publish_date: 2026-03-22
+description: Jessica Fain on the art of influence: why great ideas die, how executives make decisions, and the one skill AI cannot replace.
 duration_seconds: 5590
 duration: 1:33:10
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- influence
+- executives
+- product management
+- leadership
+- decision making
 ---
 
 # Jessica Fain | Lenny's Podcast

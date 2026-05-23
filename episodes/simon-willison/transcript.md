@@ -1,15 +1,20 @@
 ---
 guest: Simon Willison
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: An AI state of the union: We've passed the inflection point & dark factories are coming
+youtube_url: https://www.youtube.com/watch?v=wc8FBhQtdsA
+video_id: wc8FBhQtdsA
+publish_date: 2026-04-02
+description: Simon Willison on agentic engineering, dark factories, automation timelines, and why late 2025 was an AI inflection point.
 duration_seconds: 5968
 duration: 1:39:28
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- ai
+- agentic engineering
+- dark factories
+- automation
+- coding agents
 ---
 
 # Simon Willison | Lenny's Podcast

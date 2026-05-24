@@ -1,15 +1,20 @@
 ---
 guest: Qasar Younis
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: The real AI revolution isn't software. It's farms, mines, and trucks. | Qasar Younis
+youtube_url: https://www.youtube.com/watch?v=_rcniEb9bLw
+video_id: _rcniEb9bLw
+publish_date: 2026-03-08
+description: Qasar Younis, co-founder and CEO of Applied Intuition ($15B AI company), on how AI will transform physical industries: farming, mining, trucking, and autonomy.
 duration_seconds: 5040
 duration: 1:24:00
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- AI
+- autonomy
+- Applied Intuition
+- self-driving
+- physical industries
 ---
 
 # Qasar Younis | Lenny's Podcast

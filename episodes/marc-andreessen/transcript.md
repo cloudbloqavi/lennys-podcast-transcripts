@@ -1,15 +1,18 @@
 ---
 guest: Marc Andreessen
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: Marc Andreessen: The real AI boom hasn't even started yet
+youtube_url: https://www.youtube.com/watch?v=87Pm0SGTtN8
+video_id: 87Pm0SGTtN8
+publish_date: 2026-01-29
+description: Marc Andreessen, co-founder of a16z, discusses why the real AI boom hasn't even started and what it means for the economy, software, and society.
 duration_seconds: 6265
 duration: 1:44:25
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- AI
+- venture capital
+- technology
 ---
 
 # Marc Andreessen | Lenny's Podcast

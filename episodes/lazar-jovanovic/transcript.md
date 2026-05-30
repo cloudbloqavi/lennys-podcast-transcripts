@@ -1,15 +1,18 @@
 ---
 guest: Lazar Jovanovic
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic
+youtube_url: https://www.youtube.com/watch?v=0XNkUdzxiZI
+video_id: 0XNkUdzxiZI
+publish_date: 2026-02-08
+description: Lazar Jovanovic, professional vibe coder at Lovable, discusses the rise of AI-era vibe coding and how to ship production-quality products using only AI.
 duration_seconds: 6126
 duration: 1:42:06
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- vibe coding
+- AI engineering
+- Lovable
 ---
 
 # Lazar Jovanovic | Lenny's Podcast

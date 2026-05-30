@@ -1,15 +1,18 @@
 ---
 guest: Jason Cohen
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: The surprising advice from a founder who built 2 unicorns | Jason Cohen (WP Engine)
+youtube_url: https://www.youtube.com/watch?v=8xLquwfx6p0
+video_id: 8xLquwfx6p0
+publish_date: 2026-01-25
+description: Jason Cohen, four-time founder and creator of WP Engine, shares his framework for diagnosing stalled growth and surprising lessons from building two unicorns.
 duration_seconds: 6336
 duration: 1:45:36
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- startups
+- SaaS
+- WP Engine
 ---
 
 # Jason Cohen | Lenny's Podcast

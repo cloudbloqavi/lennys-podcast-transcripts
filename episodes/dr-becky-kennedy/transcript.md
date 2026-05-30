@@ -1,15 +1,18 @@
 ---
 guest: Dr. Becky Kennedy
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: A child psychologist's guide to working with difficult adults | Dr. Becky Kennedy
+youtube_url: https://www.youtube.com/watch?v=Auxs8ZsHRI4
+video_id: Auxs8ZsHRI4
+publish_date: 2026-02-01
+description: Dr. Becky Kennedy, clinical psychologist and author of Good Inside, discusses the surprising overlap between great parenting and great leadership.
 duration_seconds: 5490
 duration: 1:31:30
 view_count: 0
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- parenting
+- leadership
+- psychology
 ---
 
 # Dr. Becky Kennedy | Lenny's Podcast

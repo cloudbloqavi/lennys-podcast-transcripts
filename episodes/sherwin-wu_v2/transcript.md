@@ -1,15 +1,18 @@
 ---
 guest: Sherwin Wu
-title: PLACEHOLDER_TITLE
-youtube_url: PLACEHOLDER_URL
-video_id: PLACEHOLDER_ID
-publish_date: PLACEHOLDER_DATE
-description: PLACEHOLDER_DESC
+title: OpenAI's head of platform engineering on the next 12-24 months of AI | Sherwin Wu
+youtube_url: https://www.youtube.com/watch?v=B26CwKm5C1k
+video_id: B26CwKm5C1k
+publish_date: 2026-02-12
+description: Sherwin Wu, OpenAI's head of platform engineering, discusses the next 12-24 months of AI development.
 duration_seconds: 4756
 duration: 1:19:16
-view_count: 0
+view_count: 80128
 channel: Lenny's Podcast
-keywords: []
+keywords:
+- OpenAI
+- platform engineering
+- AI
 ---
 
 # Sherwin Wu | Lenny's Podcast
